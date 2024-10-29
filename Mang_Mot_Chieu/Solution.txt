@@ -1,0 +1,54 @@
+- Chỉ số cân bằng: 
+	Tính sum của một mảng 
+	Dùng biến left để check xem có đúng số cân bằng không.
+
+- Tim tần suất le: Phép XOR 
+
+1 2 3 4 5 4 3 2 5
+
+01
+10
+11
+11
+00
+100
+101
+001
+100
+101
+ 11
+110
+101
+011
+ 10
+  1
+
+
+- Sắp xếp gì gì đó chưa nhớ nhưng bắt đầu khó rồi đấy:v
+Cho một mảng, Cho các index có thể swap
+Ý tưởng là sẽ:
+	Nhập mảng
+	nhập các index có thể swap (Dùng một mảng 0 và nếu được swap sẽ đổi thành 1)
+	Duyệt qua toàn bộ các phần tử trong mảng
+	Kiểm tra xem có được swap không
+	dùng một index để check giá trị khoảng được swap
+	sort
+	Cuối cùng check lại mảng dã sort xem đã tăng dần chưa
+Bài này khó như hay
+
+
+
+
+- Máy tính điên: Đề hơi xàm. ở trên thì nói trong 1 giây không gõ thì sẽ reset nhưng dưới thì lại ghi là c giây.
+
+
+
+
+- Tìm số phần tử của dãy con nhỏ nhất lớn hơn 1 giá trị của X.
+Dùng kĩ thuật 2 con trỏ nha.
+Dùng while check sum nhé
+
+
+
+- Tăng mảng: Đơn giản là cộn dần sum sao cho mảnh không giảm là được.
+
